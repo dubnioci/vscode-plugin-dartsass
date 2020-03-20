@@ -1,14 +1,14 @@
 {
     "name": "dartsass",
-    "displayName": "DartJS Sass Compiler and Sass Watcher",
-    "description": "Compile Sass and Scss files using DartSass Compiler - Visual Studio Code (vsce) plugin",
+    "displayName": "DartJS Sass Compiler ( deprecated )",
+    "description": "Deprecated. Use codelios.dartsass instead",
     "publisher": "malvahq",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/feldci/vscode-plugin-dartsass.git"
+        "url": "https://github.com/malvahq/vscode-plugin-dartsass.git"
     },
-    "version": "0.5.21",
+    "version": "0.5.22",
     "engines": {
         "vscode": "^1.38.0"
     },
